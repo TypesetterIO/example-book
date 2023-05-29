@@ -17,7 +17,7 @@ return [
 
     'observers' => [
         new \Typesetterio\Typesetter\Observers\DefaultMarkdownConfiguration(),
-        new \App\Observers\FirstElementInChapterCSSClass(),
-        new \App\Observers\BreakToPageBreak(),
+        new \Typesetterio\Typesetter\Observers\FirstElementInChapterCSSClass(),
+        new \Typesetterio\Typesetter\Observers\BreakToPageBreak(),
     ],
 ];
