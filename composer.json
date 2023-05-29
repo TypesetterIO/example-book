@@ -1,0 +1,16 @@
+{
+  "require": {
+    "typesetterio/typesetter-cli": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../typesetter-cli"
+    },
+    {
+      "type": "path",
+      "url": "../typesetter"
+    }
+  ],
+  "minimum-stability": "dev"
+}
