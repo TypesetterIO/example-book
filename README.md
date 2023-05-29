@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/TypesetterIO/assets/blob/main/logos/v1/logo.png" height="100">
+</p>
+
 # Example Project
 
 This is an example project using [Typesetter](https://typesetter.io).
