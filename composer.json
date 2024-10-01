@@ -1,5 +1,5 @@
 {
   "require": {
-    "typesetterio/typesetter-cli": "^0.1"
+    "typesetterio/typesetter-cli": "^0.4"
   }
 }

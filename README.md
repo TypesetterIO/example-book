@@ -1,11 +1,11 @@
 <p align="center">
-    <img src="https://github.com/TypesetterIO/assets/blob/main/logos/v1/logo.png" height="100">
+    <img src=".github/assets/logo.png">
 </p>
 
 # Example Project
 
 This is an example project using [Typesetter](https://typesetter.io).
 
-To generate a book like this, follow the [quick start guide](https://docs.typesetter.io/quick-start).
+To generate a book like this, follow the [quick start guide](https://typesetter.io/docs).
 
 See the finished book at [generated/tips-ebook.pdf](generated/tips-ebook.pdf).
